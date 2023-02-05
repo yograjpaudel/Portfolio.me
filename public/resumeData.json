@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name": "Yograj Paudel",
+    "occupation": "Student",
+    "description": "I eat, sleep and breathe Web Development",
+    "image": "profilepic.jpg",
+    "bio": "PHP/Laravel/CodeIgniter developer with extensive server-side web development knowledge gathered across 1 year in the industry. Well-versed in Front-End development. Led company-wide integration with third-party APIs. Seeking to broaden knowledge of databases and deliver the highest standards of web development.",
+    "contactmessage": "Get in touch with me!",
+    "email": "yograjpaudel4241@gmail.com",
+    "phone": "+977 984599524",
+    "address": {
+      "street": "Sankhumul Road",
+      "city": "Kathmandu",
+      "state": "Bagmati",
+      "zip": "44600"
+    },
+    "website": "",
+    "resumedownload": "./resume.pdf",
+    "social": [      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yograjpaudel/",
+        "className": "fa fa-linkedin"
+      },      
+      {
+        "name": "github",
+        "url": "https://github.com/yograjpaudel",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pmadhav4241/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/@handsup9584",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/madhav.paudel.180/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Madhav4241",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Nagarjuna College of Information Technology - Kathmandu, Neapl",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "December 31, 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Easy Access",
+        "title": "Laravel Developer",
+        "years": "Jan 2021 - May 2021",
+        "description": ""
+      },
+      {
+        "company": "Core Dreams",
+        "title": "Laravel Developer",
+        "years": "Sep 2022 - Dec 2022",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "PHP/Laravel",
+        "level": "70%"
+
+      },
+      {
+        "name": "CodeIgniter",
+        "level": "50%"
+      },
+      {
+        "name": "HTML/CSS/JavaScript/AJAX",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL/SQLite",
+        "level": "70%"
+      },
+      {
+        "name": "GitHub/Bitbucket/Trello",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJSReactJS/NextJS/VueJS",
+        "level": "50%"
+      },
+      {
+        "name": "Firebase",
+        "level": "20%"
+      },
+      {
+        "name": "Python/Java/C/C++",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Dristikon Daily News Portal",
+        "category": "web applications",
+        "image": "dristikondaily.png",
+        "url": "https://www.dristikondaily.com/"
+      },
+      {
+        "title": "FlexTaxis",
+        "category": "web applications",
+        "image": "flextaxis.png",
+        "url": "https://www.flextaxis.com/"
+      },
+      {
+        "title": "LongDistanceTaxis",
+        "category": "web applications",
+        "image": "longdistancetaxis.png",
+        "url": "https://www.longdistancetaxis.com/"
+      },
+      {
+        "title": "BritishAirportCars",
+        "category": "web applications",
+        "image": "britishairportcars.png",
+        "url": "https://www.britishairportcars.co.uk/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "web applications",
+        "image": "amazon.png",
+        "url": "https://amazon-v2-ashy.vercel.app/"
+      },
+      {
+        "title": "Whatsapp Clone (React JS)",
+        "category": "web applications",
+        "image": "whatsapp.png",
+        "url": "https://whatsapp2-0-yograjpaudel.vercel.app/"
+      },
+      {
+        "title": "Web 3.0 Blockchain Application (Vite + React)",
+        "category": "web applications",
+        "image": "web3.0.png",
+        "url": "https://crypt-yograjpaudel.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
