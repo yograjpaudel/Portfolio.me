@@ -4,7 +4,7 @@
     "occupation": "Student",
     "description": "I eat, sleep and breathe Web Development",
     "image": "profilepic.jpg",
-    "bio": "PHP/Laravel/CodeIgniter developer with extensive server-side web development knowledge gathered across 1 year in the industry. Well-versed in Front-End development. Led company-wide integration with third-party APIs. Seeking to broaden knowledge of databases and deliver the highest standards of web development.",
+    "bio": "Python/Django web app developer with extensive server-side web development knowledge gathered across 2 year in the industry. Well-versed in Front-End development. Led company-wide integration with third-party APIs. Seeking to broaden knowledge of databases and deliver the highest standards of web development.",
     "contactmessage": "Get in touch with me!",
     "email": "yograjpaudel4241@gmail.com",
     "phone": "+977 984599524",
@@ -15,7 +15,7 @@
       "zip": "44600"
     },
     "website": "",
-    "resumedownload": "./resume.pdf",
+    "resumedownload": "./resume_python.pdf",
     "social": [      
       {
         "name": "linkedin",
@@ -62,21 +62,32 @@
     "work": [
       {
         "company": "Easy Access",
-        "title": "Laravel Developer",
+        "title": "Web Developer",
         "years": "Jan 2021 - May 2021",
         "description": ""
       },
       {
         "company": "Core Dreams",
-        "title": "Laravel Developer",
+        "title": "Web Developer",
         "years": "Sep 2022 - Dec 2022",
+        "description": ""
+      },
+      {
+        "company": "Web Creation Nepal",
+        "title": "Web Developer",
+        "years": "Feb 2023 - Present",
         "description": ""
       }
     ],
     "skills": [
       {
+        "name": "Python/Django",
+        "level": "75%"
+
+      },
+      {
         "name": "PHP/Laravel",
-        "level": "70%"
+        "level": "75%"
 
       },
       {
@@ -104,7 +115,7 @@
         "level": "20%"
       },
       {
-        "name": "Python/Java/C/C++",
+        "name": "Java/C/C++",
         "level": "30%"
       }
     ]
@@ -152,6 +163,18 @@
         "category": "web applications",
         "image": "web3.0.png",
         "url": "https://crypt-yograjpaudel.vercel.app/"
+      },
+      {
+        "title": "Access Himalaya",
+        "category": "web applications",
+        "image": "access-himalaya.png",
+        "url": "https://northfrontiers.com"
+      },
+      {
+        "title": "Surya Nepal",
+        "category": "web applications",
+        "image": "surya-nepal.png",
+        "url": "https://project.webcreationnepal.com/suryanepal/public"
       }
     ]
   },
