@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Yograj Paudel",
-    "occupation": "Student",
-    "description": "I eat, sleep and breathe Web Development",
+    "occupation": "Student/Developer",
+    "description": "Crafting Digital Dreams: Where Innovation Meets Imagination.",
     "image": "profilepic.jpg",
-    "bio": "Python/Django web app developer with extensive server-side web development knowledge gathered across 2 year in the industry. Well-versed in Front-End development. Led company-wide integration with third-party APIs. Seeking to broaden knowledge of databases and deliver the highest standards of web development.",
+    "bio": "I am a seasoned PHP/Laravel developer with over 2 years of robust industrial experience, specializing in crafting dynamic and efficient web solutions. Armed with a Bachelor's Degree in Computer Science, I bring a solid foundation in both theoretical knowledge and practical application. Proficient in PHP programming, Laravel framework, MySQL databases, and a range of web technologies including JavaScript, HTML, CSS, REST, MVC frameworks, I have successfully implemented and contributed to projects that showcase my technical prowess. My commitment to excellence, coupled with a collaborative mindset, makes me a valuable asset for driving innovation and delivering high-quality software solutions.",
     "contactmessage": "Get in touch with me!",
     "email": "yograjpaudel4241@gmail.com",
     "phone": "+977 984599524",
@@ -15,7 +15,7 @@
       "zip": "44600"
     },
     "website": "",
-    "resumedownload": "./resume_python.pdf",
+    "resumedownload": "./2023_December_Resume_YOGRAJPAUDEL.pdf",
     "social": [      
       {
         "name": "linkedin",
@@ -79,19 +79,17 @@
         "description": ""
       }
     ],
-    "skills": [
-      {
-        "name": "Python/Django",
-        "level": "75%"
-
-      },
+    "skills": [      
       {
         "name": "PHP/Laravel",
-        "level": "75%"
-
+        "level": "80%"
       },
       {
         "name": "CodeIgniter",
+        "level": "50%"
+      },
+      {
+        "name": "Python/Django",
         "level": "50%"
       },
       {
@@ -157,13 +155,7 @@
         "category": "web applications",
         "image": "whatsapp.png",
         "url": "https://whatsapp2-0-yograjpaudel.vercel.app/"
-      },
-      {
-        "title": "Web 3.0 Blockchain Application (Vite + React)",
-        "category": "web applications",
-        "image": "web3.0.png",
-        "url": "https://crypt-yograjpaudel.vercel.app/"
-      },
+      },      
       {
         "title": "Access Himalaya",
         "category": "web applications",
@@ -173,8 +165,50 @@
       {
         "title": "Surya Nepal",
         "category": "web applications",
-        "image": "surya-nepal.png",
-        "url": "https://project.webcreationnepal.com/suryanepal/public"
+        "image": "suryanepal.png",
+        "url": "https://project.webcreationnepal.com/Suryanepal/"
+      },
+      {
+        "title": "Ghumnajaau",
+        "category": "web applications",
+        "image": "ghumnajaau.png",
+        "url": "https://project.webcreationnepal.com/gj/public/"
+      },
+      {
+        "title": "Home Tuition Sewa",
+        "category": "web applications",
+        "image": "hts.png",
+        "url": "https://project.webcreationnepal.com/hts/public/"
+      },
+      {
+        "title": "Exact Time Service",
+        "category": "web applications",
+        "image": "ets.png",
+        "url": "https://www.exacttimeservice.com/"
+      },
+      {
+        "title": "Aarya Hotel",
+        "category": "web applications",
+        "image": "aaryahotel.png",
+        "url": "https://project.webcreationnepal.com/ah/public/"
+      },
+      {
+        "title": "Find and Buy Car Parts",
+        "category": "web applications",
+        "image": "findnbuy.png",
+        "url": "https://project.webcreationnepal.com/findnbuy/home"
+      },
+      {
+        "title": "Delice International Placement",
+        "category": "web applications",
+        "image": "delice.png",
+        "url": "https://www.deliceplacement.com/"
+      },
+      {
+        "title": "Web 3.0 Blockchain Application (Vite + React)",
+        "category": "web applications",
+        "image": "web3.0.png",
+        "url": "https://crypt-yograjpaudel.vercel.app/"
       }
     ]
   },
