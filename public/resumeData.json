@@ -3,7 +3,7 @@
     "name": "Yograj Paudel",
     "occupation": "Student/Developer",
     "description": "Crafting Digital Dreams: Where Innovation Meets Imagination.",
-    "image": "profilepic.jpg",
+    "image": "profile_picture.jpg",
     "bio": "I am a seasoned PHP/Laravel developer with over 2 years of robust industrial experience, specializing in crafting dynamic and efficient web solutions. Armed with a Bachelor's Degree in Computer Science, I bring a solid foundation in both theoretical knowledge and practical application. Proficient in PHP programming, Laravel framework, MySQL databases, and a range of web technologies including JavaScript, HTML, CSS, REST, MVC frameworks, I have successfully implemented and contributed to projects that showcase my technical prowess. My commitment to excellence, coupled with a collaborative mindset, makes me a valuable asset for driving innovation and delivering high-quality software solutions.",
     "contactmessage": "Get in touch with me!",
     "email": "yograjpaudel4241@gmail.com",
@@ -166,13 +166,37 @@
         "title": "Surya Nepal",
         "category": "web applications",
         "image": "suryanepal.png",
-        "url": "https://project.webcreationnepal.com/Suryanepal/"
+        "url": "https://new.snpl.com.np/"
       },
       {
         "title": "Ghumnajaau",
         "category": "web applications",
         "image": "ghumnajaau.png",
-        "url": "https://project.webcreationnepal.com/gj/public/"
+        "url": "https://ghumnajaau.com/"
+      },
+      {
+        "title": "Mountain Buddha",
+        "category": "web applications",
+        "image": "mountain_buddha.png",
+        "url": "http://mountainbuddha.com.np/"
+      },
+      {
+        "title": "Yupp Shop",
+        "category": "web applications",
+        "image": "yupp_shop.png",
+        "url": "https://project.webcreationnepal.com/yps/"
+      },
+      {
+        "title": "Berger Paints Nepal",
+        "category": "web applications",
+        "image": "berger.png",
+        "url": "https://bergernepal.com/"
+      },
+      {
+        "title": "NMCLE",
+        "category": "web applications",
+        "image": "nmcle.png",
+        "url": "https://project.webcreationnepal.com/nmcle/"
       },
       {
         "title": "Home Tuition Sewa",
