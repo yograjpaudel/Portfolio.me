@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Yograj Paudel",
-    "occupation": "Student/Developer",
+    "occupation": "Web Developer",
     "description": "Crafting Digital Dreams: Where Innovation Meets Imagination.",
     "image": "profile_picture.jpg",
     "bio": "I am a seasoned PHP/Laravel developer with over 2 years of robust industrial experience, specializing in crafting dynamic and efficient web solutions. Armed with a Bachelor's Degree in Computer Science, I bring a solid foundation in both theoretical knowledge and practical application. Proficient in PHP programming, Laravel framework, MySQL databases, and a range of web technologies including JavaScript, HTML, CSS, REST, MVC frameworks, I have successfully implemented and contributed to projects that showcase my technical prowess. My commitment to excellence, coupled with a collaborative mindset, makes me a valuable asset for driving innovation and delivering high-quality software solutions.",
@@ -86,11 +86,11 @@
       },
       {
         "name": "CodeIgniter",
-        "level": "50%"
+        "level": "30%"
       },
       {
         "name": "Python/Django",
-        "level": "50%"
+        "level": "30%"
       },
       {
         "name": "HTML/CSS/JavaScript/AJAX",
@@ -143,25 +143,7 @@
         "category": "web applications",
         "image": "britishairportcars.png",
         "url": "https://www.britishairportcars.co.uk/"
-      },
-      {
-        "title": "Amazon Clone (React JS)",
-        "category": "web applications",
-        "image": "amazon.png",
-        "url": "https://amazon-v2-ashy.vercel.app/"
-      },
-      {
-        "title": "Whatsapp Clone (React JS)",
-        "category": "web applications",
-        "image": "whatsapp.png",
-        "url": "https://whatsapp2-0-yograjpaudel.vercel.app/"
       },      
-      {
-        "title": "Access Himalaya",
-        "category": "web applications",
-        "image": "access-himalaya.png",
-        "url": "https://northfrontiers.com"
-      },
       {
         "title": "Surya Nepal",
         "category": "web applications",
@@ -205,12 +187,6 @@
         "url": "https://project.webcreationnepal.com/hts/public/"
       },
       {
-        "title": "Exact Time Service",
-        "category": "web applications",
-        "image": "ets.png",
-        "url": "https://www.exacttimeservice.com/"
-      },
-      {
         "title": "Aarya Hotel",
         "category": "web applications",
         "image": "aaryahotel.png",
@@ -225,14 +201,32 @@
       {
         "title": "Delice International Placement",
         "category": "web applications",
-        "image": "delice.png",
+        "image": "deliceplacement.png",
         "url": "https://www.deliceplacement.com/"
+      },
+      {
+        "title": "Digital Showroom",
+        "category": "mobile applications",
+        "image": "digitalshowroom.png",
+        "url": "https://www.digitalshowroom.com.np/"
       },
       {
         "title": "Web 3.0 Blockchain Application (Vite + React)",
         "category": "web applications",
         "image": "web3.0.png",
         "url": "https://crypt-yograjpaudel.vercel.app/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "web applications",
+        "image": "amazon.png",
+        "url": "https://amazon-v2-ashy.vercel.app/"
+      },
+      {
+        "title": "Whatsapp Clone (React JS)",
+        "category": "web applications",
+        "image": "whatsapp.png",
+        "url": "https://whatsapp2-0-yograjpaudel.vercel.app/"
       }
     ]
   },
